@@ -1,0 +1,1148 @@
+
+------------------
+Name: ERIK BRODERSEN	ID: 105889
+Maritial Status: Single
+Gender: M
+Hours: 45.0
+Wage: $75.18
+Gross Pay: $3383.10	YTD: $6766.20
+Dependents: 4
+
+Federal Tax: $811.94	YTD: $1623.89
+State Tax: $87.96	YTD: $175.92
+Local Tax: $37.89	YTD: $75.78
+SS Tax: $209.75        YTD: $419.50
+
+Net Pay: $2235.55	YTD: $4471.10
+------------------
+------------------
+Name: DONN TAULBEE	ID: 637907
+Maritial Status: Married
+Gender: M
+Hours: 46.0
+Wage: $132.15
+Gross Pay: $6078.90	YTD: $12157.80
+Dependents: 1
+
+Federal Tax: $2006.04	YTD: $4012.07
+State Tax: $273.55	YTD: $547.10
+Local Tax: $68.08	YTD: $136.17
+SS Tax: $376.89        YTD: $753.78
+
+Net Pay: $3354.34	YTD: $6708.67
+------------------
+------------------
+Name: CARROL TEED	ID: 396910
+Maritial Status: Single
+Gender: F
+Hours: 25.0
+Wage: $15.05
+Gross Pay: $376.25	YTD: $752.50
+Dependents: 2
+
+Federal Tax: $30.10	YTD: $60.20
+State Tax: $5.57	YTD: $11.14
+Local Tax: $4.21	YTD: $8.43
+SS Tax: $23.33        YTD: $46.66
+
+Net Pay: $313.04	YTD: $626.08
+------------------
+------------------
+Name: CLEMENTE CAILLER	ID: 879052
+Maritial Status: Married
+Gender: M
+Hours: 27.0
+Wage: $64.95
+Gross Pay: $1753.65	YTD: $3507.30
+Dependents: 4
+
+Federal Tax: $280.58	YTD: $561.17
+State Tax: $34.37	YTD: $68.74
+Local Tax: $19.64	YTD: $39.28
+SS Tax: $108.73        YTD: $217.45
+
+Net Pay: $1310.33	YTD: $2620.65
+------------------
+------------------
+Name: CHIN WERT	ID: 883147
+Maritial Status: Single
+Gender: F
+Hours: 41.0
+Wage: $109.98
+Gross Pay: $4509.18	YTD: $9018.36
+Dependents: 3
+
+Federal Tax: $1307.66	YTD: $2615.32
+State Tax: $157.82	YTD: $315.64
+Local Tax: $50.50	YTD: $101.01
+SS Tax: $279.57        YTD: $559.14
+
+Net Pay: $2713.62	YTD: $5427.25
+------------------
+------------------
+Name: PHILLIS BOCCIO	ID: 836595
+Maritial Status: Single
+Gender: F
+Hours: 11.0
+Wage: $112.26
+Gross Pay: $1234.86	YTD: $2469.72
+Dependents: 1
+
+Federal Tax: $246.97	YTD: $493.94
+State Tax: $36.55	YTD: $73.10
+Local Tax: $13.83	YTD: $27.66
+SS Tax: $76.56        YTD: $153.12
+
+Net Pay: $860.94	YTD: $1721.89
+------------------
+------------------
+Name: CAMMY SCHALLER	ID: 886313
+Maritial Status: Single
+Gender: F
+Hours: 24.0
+Wage: $202.29
+Gross Pay: $4854.96	YTD: $9709.92
+Dependents: 0
+
+Federal Tax: $1699.24	YTD: $3398.47
+State Tax: $242.75	YTD: $485.50
+Local Tax: $54.38	YTD: $108.75
+SS Tax: $301.01        YTD: $602.02
+
+Net Pay: $2557.59	YTD: $5115.19
+------------------
+------------------
+Name: KATHARYN WEIKEL	ID: 481026
+Maritial Status: Single
+Gender: F
+Hours: 23.0
+Wage: $252.48
+Gross Pay: $5807.04	YTD: $11614.08
+Dependents: 2
+
+Federal Tax: $1800.18	YTD: $3600.36
+State Tax: $232.28	YTD: $464.56
+Local Tax: $65.04	YTD: $130.08
+SS Tax: $360.04        YTD: $720.07
+
+Net Pay: $3349.50	YTD: $6699.00
+------------------
+------------------
+Name: ROGER LOTSPEICH	ID: 234785
+Maritial Status: Single
+Gender: M
+Hours: 9.0
+Wage: $16.03
+Gross Pay: $144.27	YTD: $288.54
+Dependents: 0
+
+Federal Tax: $14.43	YTD: $28.85
+State Tax: $2.86	YTD: $5.71
+Local Tax: $1.62	YTD: $3.23
+SS Tax: $8.94        YTD: $17.89
+
+Net Pay: $116.43	YTD: $232.85
+------------------
+------------------
+Name: MARCELINO MESQUITA	ID: 269540
+Maritial Status: Married
+Gender: M
+Hours: 39.0
+Wage: $91.83
+Gross Pay: $3581.37	YTD: $7162.74
+Dependents: 1
+
+Federal Tax: $1074.41	YTD: $2148.82
+State Tax: $146.84	YTD: $293.67
+Local Tax: $40.11	YTD: $80.22
+SS Tax: $222.04        YTD: $444.09
+
+Net Pay: $2097.97	YTD: $4195.93
+------------------
+------------------
+Name: JACINTO KACHER	ID: 173974
+Maritial Status: Married
+Gender: M
+Hours: 29.0
+Wage: $187.42
+Gross Pay: $5435.18	YTD: $10870.36
+Dependents: 3
+
+Federal Tax: $1576.20	YTD: $3152.40
+State Tax: $190.23	YTD: $380.46
+Local Tax: $60.87	YTD: $121.75
+SS Tax: $336.98        YTD: $673.96
+
+Net Pay: $3270.89	YTD: $6541.78
+------------------
+------------------
+Name: RAUL HEEBNER	ID: 925611
+Maritial Status: Married
+Gender: M
+Hours: 28.0
+Wage: $245.34
+Gross Pay: $6869.52	YTD: $13739.04
+Dependents: 3
+
+Federal Tax: $1992.16	YTD: $3984.32
+State Tax: $240.43	YTD: $480.87
+Local Tax: $76.94	YTD: $153.88
+SS Tax: $425.91        YTD: $851.82
+
+Net Pay: $4134.08	YTD: $8268.15
+------------------
+------------------
+Name: LEANDRO WITCRAFT	ID: 801150
+Maritial Status: Married
+Gender: M
+Hours: 35.0
+Wage: $55.37
+Gross Pay: $1937.95	YTD: $3875.90
+Dependents: 3
+
+Federal Tax: $348.83	YTD: $697.66
+State Tax: $47.67	YTD: $95.35
+Local Tax: $21.71	YTD: $43.41
+SS Tax: $120.15        YTD: $240.31
+
+Net Pay: $1399.59	YTD: $2799.17
+------------------
+------------------
+Name: RODOLFO GLADYSZ	ID: 313058
+Maritial Status: Married
+Gender: M
+Hours: 23.0
+Wage: $51.76
+Gross Pay: $1190.48	YTD: $2380.96
+Dependents: 2
+
+Federal Tax: $214.29	YTD: $428.57
+State Tax: $29.29	YTD: $58.57
+Local Tax: $13.33	YTD: $26.67
+SS Tax: $73.81        YTD: $147.62
+
+Net Pay: $859.76	YTD: $1719.53
+------------------
+------------------
+Name: LETICIA HANO	ID: 227526
+Maritial Status: Single
+Gender: F
+Hours: 20.0
+Wage: $142.13
+Gross Pay: $2842.60	YTD: $5685.20
+Dependents: 1
+
+Federal Tax: $625.37	YTD: $1250.74
+State Tax: $116.55	YTD: $233.09
+Local Tax: $31.84	YTD: $63.67
+SS Tax: $176.24        YTD: $352.48
+
+Net Pay: $1892.60	YTD: $3785.21
+------------------
+------------------
+Name: MITCHELL VITUCCI	ID: 702837
+Maritial Status: Married
+Gender: F
+Hours: 23.0
+Wage: $201.23
+Gross Pay: $4628.29	YTD: $9256.58
+Dependents: 0
+
+Federal Tax: $1619.90	YTD: $3239.80
+State Tax: $231.41	YTD: $462.83
+Local Tax: $51.84	YTD: $103.67
+SS Tax: $286.95        YTD: $573.91
+
+Net Pay: $2438.18	YTD: $4876.37
+------------------
+------------------
+Name: MENDY BULMER	ID: 517676
+Maritial Status: Married
+Gender: F
+Hours: 36.0
+Wage: $98.99
+Gross Pay: $3563.64	YTD: $7127.28
+Dependents: 3
+
+Federal Tax: $926.55	YTD: $1853.09
+State Tax: $110.47	YTD: $220.95
+Local Tax: $39.91	YTD: $79.83
+SS Tax: $220.95        YTD: $441.89
+
+Net Pay: $2265.76	YTD: $4531.52
+------------------
+------------------
+Name: MARCOS LAZARTE	ID: 334329
+Maritial Status: Married
+Gender: M
+Hours: 30.0
+Wage: $47.10
+Gross Pay: $1413.00	YTD: $2826.00
+Dependents: 4
+
+Federal Tax: $197.82	YTD: $395.64
+State Tax: $20.63	YTD: $41.26
+Local Tax: $15.83	YTD: $31.65
+SS Tax: $87.61        YTD: $175.21
+
+Net Pay: $1091.12	YTD: $2182.24
+------------------
+------------------
+Name: FERMIN CLAGGETT	ID: 574757
+Maritial Status: Single
+Gender: M
+Hours: 20.0
+Wage: $154.79
+Gross Pay: $3095.80	YTD: $6191.60
+Dependents: 2
+
+Federal Tax: $866.82	YTD: $1733.65
+State Tax: $111.45	YTD: $222.90
+Local Tax: $34.67	YTD: $69.35
+SS Tax: $191.94        YTD: $383.88
+
+Net Pay: $1890.91	YTD: $3781.83
+------------------
+------------------
+Name: DEWITT ROCKINGHAM	ID: 445444
+Maritial Status: Married
+Gender: M
+Hours: 36.0
+Wage: $66.42
+Gross Pay: $2391.12	YTD: $4782.24
+Dependents: 2
+
+Federal Tax: $478.22	YTD: $956.45
+State Tax: $86.08	YTD: $172.16
+Local Tax: $26.78	YTD: $53.56
+SS Tax: $148.25        YTD: $296.50
+
+Net Pay: $1651.79	YTD: $3303.57
+------------------
+------------------
+Name: ROBBIE DOBIESZ	ID: 256960
+Maritial Status: Single
+Gender: M
+Hours: 45.0
+Wage: $14.78
+Gross Pay: $665.10	YTD: $1330.20
+Dependents: 0
+
+Federal Tax: $79.81	YTD: $159.62
+State Tax: $19.75	YTD: $39.51
+Local Tax: $7.45	YTD: $14.90
+SS Tax: $41.24        YTD: $82.47
+
+Net Pay: $516.85	YTD: $1033.70
+------------------
+------------------
+Name: SHERMAN SHATTO	ID: 525387
+Maritial Status: Single
+Gender: M
+Hours: 19.0
+Wage: $60.81
+Gross Pay: $1155.39	YTD: $2310.78
+Dependents: 3
+
+Federal Tax: $184.86	YTD: $369.72
+State Tax: $22.65	YTD: $45.29
+Local Tax: $12.94	YTD: $25.88
+SS Tax: $71.63        YTD: $143.27
+
+Net Pay: $863.31	YTD: $1726.61
+------------------
+------------------
+Name: DONOVAN NICOLAYSEN	ID: 910902
+Maritial Status: Single
+Gender: M
+Hours: 9.0
+Wage: $217.99
+Gross Pay: $1961.91	YTD: $3923.82
+Dependents: 4
+
+Federal Tax: $313.91	YTD: $627.81
+State Tax: $38.45	YTD: $76.91
+Local Tax: $21.97	YTD: $43.95
+SS Tax: $121.64        YTD: $243.28
+
+Net Pay: $1465.94	YTD: $2931.88
+------------------
+------------------
+Name: MARGARET MINION	ID: 757055
+Maritial Status: Married
+Gender: F
+Hours: 10.0
+Wage: $79.28
+Gross Pay: $792.80	YTD: $1585.60
+Dependents: 2
+
+Federal Tax: $142.70	YTD: $285.41
+State Tax: $15.62	YTD: $31.24
+Local Tax: $8.88	YTD: $17.76
+SS Tax: $49.15        YTD: $98.31
+
+Net Pay: $576.44	YTD: $1152.89
+------------------
+------------------
+Name: GABRIEL SCHNUERER	ID: 448975
+Maritial Status: Married
+Gender: M
+Hours: 43.0
+Wage: $180.85
+Gross Pay: $7776.55	YTD: $15553.10
+Dependents: 4
+
+Federal Tax: $2099.67	YTD: $4199.34
+State Tax: $233.30	YTD: $466.59
+Local Tax: $87.10	YTD: $174.19
+SS Tax: $482.15        YTD: $964.29
+
+Net Pay: $4874.34	YTD: $9748.68
+------------------
+------------------
+Name: ROSALEE WHITLINGUM	ID: 387904
+Maritial Status: Single
+Gender: F
+Hours: 41.0
+Wage: $144.10
+Gross Pay: $5908.10	YTD: $11816.20
+Dependents: 1
+
+Federal Tax: $1949.67	YTD: $3899.35
+State Tax: $265.86	YTD: $531.73
+Local Tax: $66.17	YTD: $132.34
+SS Tax: $366.30        YTD: $732.60
+
+Net Pay: $3260.09	YTD: $6520.18
+------------------
+------------------
+Name: DWAYNE GIEL	ID: 234321
+Maritial Status: Married
+Gender: M
+Hours: 41.0
+Wage: $252.85
+Gross Pay: $10366.85	YTD: $20733.70
+Dependents: 3
+
+Federal Tax: $3213.72	YTD: $6427.45
+State Tax: $362.84	YTD: $725.68
+Local Tax: $116.11	YTD: $232.22
+SS Tax: $642.74        YTD: $1285.49
+
+Net Pay: $6031.43	YTD: $12062.87
+------------------
+------------------
+Name: SHAUN VINIARD	ID: 252433
+Maritial Status: Single
+Gender: M
+Hours: 11.0
+Wage: $84.32
+Gross Pay: $927.52	YTD: $1855.04
+Dependents: 3
+
+Federal Tax: $148.40	YTD: $296.81
+State Tax: $18.18	YTD: $36.36
+Local Tax: $10.39	YTD: $20.78
+SS Tax: $57.51        YTD: $115.01
+
+Net Pay: $693.04	YTD: $1386.09
+------------------
+------------------
+Name: MAHALIA MOORS	ID: 660179
+Maritial Status: Married
+Gender: F
+Hours: 25.0
+Wage: $90.55
+Gross Pay: $2263.75	YTD: $4527.50
+Dependents: 4
+
+Federal Tax: $362.20	YTD: $724.40
+State Tax: $58.86	YTD: $117.71
+Local Tax: $25.35	YTD: $50.71
+SS Tax: $140.35        YTD: $280.70
+
+Net Pay: $1676.99	YTD: $3353.97
+------------------
+------------------
+Name: FREDA KATZEN	ID: 766785
+Maritial Status: Single
+Gender: F
+Hours: 15.0
+Wage: $68.35
+Gross Pay: $1025.25	YTD: $2050.50
+Dependents: 4
+
+Federal Tax: $143.54	YTD: $287.07
+State Tax: $14.97	YTD: $29.94
+Local Tax: $11.48	YTD: $22.97
+SS Tax: $63.57        YTD: $127.13
+
+Net Pay: $791.70	YTD: $1583.40
+------------------
+------------------
+Name: ZACHARY FITGERALD	ID: 944179
+Maritial Status: Married
+Gender: M
+Hours: 11.0
+Wage: $223.93
+Gross Pay: $2463.23	YTD: $4926.46
+Dependents: 0
+
+Federal Tax: $591.18	YTD: $1182.35
+State Tax: $113.31	YTD: $226.62
+Local Tax: $27.59	YTD: $55.18
+SS Tax: $152.72        YTD: $305.44
+
+Net Pay: $1578.44	YTD: $3156.88
+------------------
+------------------
+Name: KELLI CARRILLO	ID: 420625
+Maritial Status: Married
+Gender: F
+Hours: 7.0
+Wage: $168.64
+Gross Pay: $1180.48	YTD: $2360.96
+Dependents: 0
+
+Federal Tax: $259.71	YTD: $519.41
+State Tax: $40.84	YTD: $81.69
+Local Tax: $13.22	YTD: $26.44
+SS Tax: $73.19        YTD: $146.38
+
+Net Pay: $793.52	YTD: $1587.04
+------------------
+------------------
+Name: TRACI KORB	ID: 120577
+Maritial Status: Married
+Gender: F
+Hours: 8.0
+Wage: $68.16
+Gross Pay: $545.28	YTD: $1090.56
+Dependents: 3
+
+Federal Tax: $32.72	YTD: $65.43
+State Tax: $8.02	YTD: $16.03
+Local Tax: $6.11	YTD: $12.21
+SS Tax: $33.81        YTD: $67.61
+
+Net Pay: $464.63	YTD: $929.27
+------------------
+------------------
+Name: ELISSA CAPERTON	ID: 763586
+Maritial Status: Married
+Gender: F
+Hours: 11.0
+Wage: $121.89
+Gross Pay: $1340.79	YTD: $2681.58
+Dependents: 0
+
+Federal Tax: $294.97	YTD: $589.95
+State Tax: $46.39	YTD: $92.78
+Local Tax: $15.02	YTD: $30.03
+SS Tax: $83.13        YTD: $166.26
+
+Net Pay: $901.28	YTD: $1802.56
+------------------
+------------------
+Name: GAYLE TUCHOLSKI	ID: 213988
+Maritial Status: Single
+Gender: F
+Hours: 7.0
+Wage: $107.65
+Gross Pay: $753.55	YTD: $1507.10
+Dependents: 0
+
+Federal Tax: $90.43	YTD: $180.85
+State Tax: $22.38	YTD: $44.76
+Local Tax: $8.44	YTD: $16.88
+SS Tax: $46.72        YTD: $93.44
+
+Net Pay: $585.58	YTD: $1171.17
+------------------
+------------------
+Name: ISAAC CUBIAS	ID: 696523
+Maritial Status: Married
+Gender: M
+Hours: 18.0
+Wage: $81.82
+Gross Pay: $1472.76	YTD: $2945.52
+Dependents: 3
+
+Federal Tax: $235.64	YTD: $471.28
+State Tax: $28.87	YTD: $57.73
+Local Tax: $16.49	YTD: $32.99
+SS Tax: $91.31        YTD: $182.62
+
+Net Pay: $1100.45	YTD: $2200.89
+------------------
+------------------
+Name: TARRA LAKER	ID: 626034
+Maritial Status: Married
+Gender: F
+Hours: 40.0
+Wage: $81.18
+Gross Pay: $3247.20	YTD: $6494.40
+Dependents: 0
+
+Federal Tax: $1039.10	YTD: $2078.21
+State Tax: $149.37	YTD: $298.74
+Local Tax: $36.37	YTD: $72.74
+SS Tax: $201.33        YTD: $402.65
+
+Net Pay: $1821.03	YTD: $3642.06
+------------------
+------------------
+Name: DILLON WEGMAN	ID: 650508
+Maritial Status: Married
+Gender: M
+Hours: 10.0
+Wage: $54.75
+Gross Pay: $547.50	YTD: $1095.00
+Dependents: 1
+
+Federal Tax: $54.75	YTD: $109.50
+State Tax: $13.52	YTD: $27.05
+Local Tax: $6.13	YTD: $12.26
+SS Tax: $33.95        YTD: $67.89
+
+Net Pay: $439.15	YTD: $878.30
+------------------
+------------------
+Name: LORALEE SAYNE	ID: 919853
+Maritial Status: Single
+Gender: F
+Hours: 22.0
+Wage: $215.61
+Gross Pay: $4743.42	YTD: $9486.84
+Dependents: 3
+
+Federal Tax: $1375.59	YTD: $2751.18
+State Tax: $166.02	YTD: $332.04
+Local Tax: $53.13	YTD: $106.25
+SS Tax: $294.09        YTD: $588.18
+
+Net Pay: $2854.59	YTD: $5709.18
+------------------
+------------------
+Name: ODIS BROKAW	ID: 629391
+Maritial Status: Single
+Gender: M
+Hours: 29.0
+Wage: $208.49
+Gross Pay: $6046.21	YTD: $12092.42
+Dependents: 2
+
+Federal Tax: $1874.33	YTD: $3748.65
+State Tax: $241.85	YTD: $483.70
+Local Tax: $67.72	YTD: $135.44
+SS Tax: $374.87        YTD: $749.73
+
+Net Pay: $3487.45	YTD: $6974.91
+------------------
+------------------
+Name: RISA ROSETE	ID: 946877
+Maritial Status: Married
+Gender: F
+Hours: 19.0
+Wage: $243.64
+Gross Pay: $4629.16	YTD: $9258.32
+Dependents: 4
+
+Federal Tax: $1249.87	YTD: $2499.75
+State Tax: $138.87	YTD: $277.75
+Local Tax: $51.85	YTD: $103.69
+SS Tax: $287.01        YTD: $574.02
+
+Net Pay: $2901.56	YTD: $5803.11
+------------------
+------------------
+Name: LATRINA PROFIT	ID: 650371
+Maritial Status: Married
+Gender: F
+Hours: 41.0
+Wage: $191.54
+Gross Pay: $7853.14	YTD: $15706.28
+Dependents: 4
+
+Federal Tax: $2120.35	YTD: $4240.70
+State Tax: $235.59	YTD: $471.19
+Local Tax: $87.96	YTD: $175.91
+SS Tax: $486.89        YTD: $973.79
+
+Net Pay: $4922.35	YTD: $9844.70
+------------------
+------------------
+Name: TYREE BODKIN	ID: 270254
+Maritial Status: Married
+Gender: M
+Hours: 38.0
+Wage: $172.94
+Gross Pay: $6571.72	YTD: $13143.44
+Dependents: 0
+
+Federal Tax: $2300.10	YTD: $4600.20
+State Tax: $328.59	YTD: $657.17
+Local Tax: $73.60	YTD: $147.21
+SS Tax: $407.45        YTD: $814.89
+
+Net Pay: $3461.98	YTD: $6923.96
+------------------
+------------------
+Name: DINO VERSAW	ID: 548695
+Maritial Status: Single
+Gender: M
+Hours: 12.0
+Wage: $153.44
+Gross Pay: $1841.28	YTD: $3682.56
+Dependents: 1
+
+Federal Tax: $405.08	YTD: $810.16
+State Tax: $63.71	YTD: $127.42
+Local Tax: $20.62	YTD: $41.24
+SS Tax: $114.16        YTD: $228.32
+
+Net Pay: $1237.71	YTD: $2475.42
+------------------
+------------------
+Name: MIGDALIA TANGREN	ID: 545816
+Maritial Status: Married
+Gender: F
+Hours: 11.0
+Wage: $130.61
+Gross Pay: $1436.71	YTD: $2873.42
+Dependents: 4
+
+Federal Tax: $201.14	YTD: $402.28
+State Tax: $20.98	YTD: $41.95
+Local Tax: $16.09	YTD: $32.18
+SS Tax: $89.08        YTD: $178.15
+
+Net Pay: $1109.43	YTD: $2218.85
+------------------
+------------------
+Name: HOWARD CULHANE	ID: 103948
+Maritial Status: Married
+Gender: M
+Hours: 32.0
+Wage: $144.62
+Gross Pay: $4627.84	YTD: $9255.68
+Dependents: 0
+
+Federal Tax: $1619.74	YTD: $3239.49
+State Tax: $231.39	YTD: $462.78
+Local Tax: $51.83	YTD: $103.66
+SS Tax: $286.93        YTD: $573.85
+
+Net Pay: $2437.95	YTD: $4875.89
+------------------
+------------------
+Name: ADRIAN REDDOUT	ID: 659589
+Maritial Status: Married
+Gender: M
+Hours: 20.0
+Wage: $23.94
+Gross Pay: $478.80	YTD: $957.60
+Dependents: 4
+
+Federal Tax: $19.15	YTD: $38.30
+State Tax: $4.64	YTD: $9.29
+Local Tax: $5.36	YTD: $10.73
+SS Tax: $29.69        YTD: $59.37
+
+Net Pay: $419.96	YTD: $839.91
+------------------
+------------------
+Name: ED MODISETTE	ID: 303153
+Maritial Status: Single
+Gender: M
+Hours: 34.0
+Wage: $73.60
+Gross Pay: $2502.40	YTD: $5004.80
+Dependents: 0
+
+Federal Tax: $600.58	YTD: $1201.15
+State Tax: $115.11	YTD: $230.22
+Local Tax: $28.03	YTD: $56.05
+SS Tax: $155.15        YTD: $310.30
+
+Net Pay: $1603.54	YTD: $3207.08
+------------------
+------------------
+Name: GIL CHRISTIANA	ID: 361735
+Maritial Status: Single
+Gender: M
+Hours: 19.0
+Wage: $153.02
+Gross Pay: $2907.38	YTD: $5814.76
+Dependents: 0
+
+Federal Tax: $697.77	YTD: $1395.54
+State Tax: $133.74	YTD: $267.48
+Local Tax: $32.56	YTD: $65.13
+SS Tax: $180.26        YTD: $360.52
+
+Net Pay: $1863.05	YTD: $3726.10
+------------------
+------------------
+Name: JOSEF AUDAS	ID: 130474
+Maritial Status: Married
+Gender: M
+Hours: 16.0
+Wage: $221.19
+Gross Pay: $3539.04	YTD: $7078.08
+Dependents: 2
+
+Federal Tax: $990.93	YTD: $1981.86
+State Tax: $127.41	YTD: $254.81
+Local Tax: $39.64	YTD: $79.27
+SS Tax: $219.42        YTD: $438.84
+
+Net Pay: $2161.65	YTD: $4323.29
+------------------
+------------------
+Name: ELIZBETH WINKLE	ID: 825204
+Maritial Status: Single
+Gender: F
+Hours: 10.0
+Wage: $110.38
+Gross Pay: $1103.80	YTD: $2207.60
+Dependents: 4
+
+Federal Tax: $154.53	YTD: $309.06
+State Tax: $16.12	YTD: $32.23
+Local Tax: $12.36	YTD: $24.73
+SS Tax: $68.44        YTD: $136.87
+
+Net Pay: $852.35	YTD: $1704.71
+------------------
+------------------
+Name: KASEY CONEDY	ID: 269072
+Maritial Status: Married
+Gender: M
+Hours: 23.0
+Wage: $138.25
+Gross Pay: $3179.75	YTD: $6359.50
+Dependents: 0
+
+Federal Tax: $1017.52	YTD: $2035.04
+State Tax: $146.27	YTD: $292.54
+Local Tax: $35.61	YTD: $71.23
+SS Tax: $197.14        YTD: $394.29
+
+Net Pay: $1783.20	YTD: $3566.41
+------------------
+------------------
+Name: ESTELLA HAMMANN	ID: 996856
+Maritial Status: Married
+Gender: F
+Hours: 14.0
+Wage: $148.25
+Gross Pay: $2075.50	YTD: $4151.00
+Dependents: 1
+
+Federal Tax: $456.61	YTD: $913.22
+State Tax: $71.81	YTD: $143.62
+Local Tax: $23.25	YTD: $46.49
+SS Tax: $128.68        YTD: $257.36
+
+Net Pay: $1395.15	YTD: $2790.30
+------------------
+------------------
+Name: SIDNEY BENCE	ID: 654591
+Maritial Status: Single
+Gender: M
+Hours: 30.0
+Wage: $101.53
+Gross Pay: $3045.90	YTD: $6091.80
+Dependents: 4
+
+Federal Tax: $487.34	YTD: $974.69
+State Tax: $79.19	YTD: $158.39
+Local Tax: $34.11	YTD: $68.23
+SS Tax: $188.85        YTD: $377.69
+
+Net Pay: $2256.40	YTD: $4512.81
+------------------
+------------------
+Name: NICHOLLE WILTSIE	ID: 471498
+Maritial Status: Married
+Gender: F
+Hours: 12.0
+Wage: $238.43
+Gross Pay: $2861.16	YTD: $5722.32
+Dependents: 2
+
+Federal Tax: $572.23	YTD: $1144.46
+State Tax: $103.00	YTD: $206.00
+Local Tax: $32.04	YTD: $64.09
+SS Tax: $177.39        YTD: $354.78
+
+Net Pay: $1976.49	YTD: $3952.98
+------------------
+------------------
+Name: BRITT SKILL	ID: 916522
+Maritial Status: Married
+Gender: M
+Hours: 41.0
+Wage: $28.86
+Gross Pay: $1183.26	YTD: $2366.52
+Dependents: 2
+
+Federal Tax: $212.99	YTD: $425.97
+State Tax: $29.11	YTD: $58.22
+Local Tax: $13.25	YTD: $26.51
+SS Tax: $73.36        YTD: $146.72
+
+Net Pay: $854.55	YTD: $1709.10
+------------------
+------------------
+Name: ZACHARY FLOW	ID: 148842
+Maritial Status: Single
+Gender: M
+Hours: 30.0
+Wage: $186.54
+Gross Pay: $5596.20	YTD: $11192.40
+Dependents: 1
+
+Federal Tax: $1846.75	YTD: $3693.49
+State Tax: $251.83	YTD: $503.66
+Local Tax: $62.68	YTD: $125.35
+SS Tax: $346.96        YTD: $693.93
+
+Net Pay: $3087.98	YTD: $6175.97
+------------------
+------------------
+Name: ZACHERY BEHANNA	ID: 472297
+Maritial Status: Single
+Gender: M
+Hours: 38.0
+Wage: $210.86
+Gross Pay: $8012.68	YTD: $16025.36
+Dependents: 1
+
+Federal Tax: $2644.18	YTD: $5288.37
+State Tax: $360.57	YTD: $721.14
+Local Tax: $89.74	YTD: $179.48
+SS Tax: $496.79        YTD: $993.57
+
+Net Pay: $4421.40	YTD: $8842.79
+------------------
+------------------
+Name: NORMAND KILLMEYER	ID: 817324
+Maritial Status: Married
+Gender: M
+Hours: 20.0
+Wage: $207.70
+Gross Pay: $4154.00	YTD: $8308.00
+Dependents: 1
+
+Federal Tax: $1370.82	YTD: $2741.64
+State Tax: $170.31	YTD: $340.63
+Local Tax: $46.52	YTD: $93.05
+SS Tax: $257.55        YTD: $515.10
+
+Net Pay: $2308.79	YTD: $4617.59
+------------------
+------------------
+Name: TRINIDAD FRIBERG	ID: 170861
+Maritial Status: Single
+Gender: M
+Hours: 11.0
+Wage: $147.44
+Gross Pay: $1621.84	YTD: $3243.68
+Dependents: 3
+
+Federal Tax: $291.93	YTD: $583.86
+State Tax: $31.79	YTD: $63.58
+Local Tax: $18.16	YTD: $36.33
+SS Tax: $100.55        YTD: $201.11
+
+Net Pay: $1179.40	YTD: $2358.80
+------------------
+------------------
+Name: JOSE FLATER	ID: 580608
+Maritial Status: Single
+Gender: F
+Hours: 17.0
+Wage: $97.08
+Gross Pay: $1650.36	YTD: $3300.72
+Dependents: 4
+
+Federal Tax: $264.06	YTD: $528.12
+State Tax: $24.10	YTD: $48.19
+Local Tax: $18.48	YTD: $36.97
+SS Tax: $102.32        YTD: $204.64
+
+Net Pay: $1241.40	YTD: $2482.80
+------------------
+------------------
+Name: MITCH LLANES	ID: 163257
+Maritial Status: Married
+Gender: M
+Hours: 36.0
+Wage: $28.32
+Gross Pay: $1019.52	YTD: $2039.04
+Dependents: 4
+
+Federal Tax: $142.73	YTD: $285.47
+State Tax: $14.88	YTD: $29.77
+Local Tax: $11.42	YTD: $22.84
+SS Tax: $63.21        YTD: $126.42
+
+Net Pay: $787.27	YTD: $1574.55
+------------------
+------------------
+Name: TUAN HANIFAN	ID: 992327
+Maritial Status: Married
+Gender: M
+Hours: 26.0
+Wage: $187.49
+Gross Pay: $4874.74	YTD: $9749.48
+Dependents: 0
+
+Federal Tax: $1706.16	YTD: $3412.32
+State Tax: $243.74	YTD: $487.47
+Local Tax: $54.60	YTD: $109.19
+SS Tax: $302.23        YTD: $604.47
+
+Net Pay: $2568.01	YTD: $5136.03
+------------------
+------------------
+Name: LYLE TERRON	ID: 922351
+Maritial Status: Married
+Gender: M
+Hours: 16.0
+Wage: $140.13
+Gross Pay: $2242.08	YTD: $4484.16
+Dependents: 0
+
+Federal Tax: $538.10	YTD: $1076.20
+State Tax: $103.14	YTD: $206.27
+Local Tax: $25.11	YTD: $50.22
+SS Tax: $139.01        YTD: $278.02
+
+Net Pay: $1436.72	YTD: $2873.45
+------------------
+------------------
+Name: ROSALEE INOCENCIO	ID: 217010
+Maritial Status: Single
+Gender: F
+Hours: 39.0
+Wage: $17.78
+Gross Pay: $693.42	YTD: $1386.84
+Dependents: 3
+
+Federal Tax: $41.61	YTD: $83.21
+State Tax: $10.19	YTD: $20.39
+Local Tax: $7.77	YTD: $15.53
+SS Tax: $42.99        YTD: $85.98
+
+Net Pay: $590.86	YTD: $1181.73
+------------------
+------------------
+Name: LUCIO STASKO	ID: 380826
+Maritial Status: Single
+Gender: M
+Hours: 18.0
+Wage: $252.95
+Gross Pay: $4553.10	YTD: $9106.20
+Dependents: 3
+
+Federal Tax: $1320.40	YTD: $2640.80
+State Tax: $159.36	YTD: $318.72
+Local Tax: $50.99	YTD: $101.99
+SS Tax: $282.29        YTD: $564.58
+
+Net Pay: $2740.06	YTD: $5480.11
+------------------
+------------------
+Name: STACEY LATTIMER	ID: 515002
+Maritial Status: Married
+Gender: M
+Hours: 21.0
+Wage: $126.63
+Gross Pay: $2659.23	YTD: $5318.46
+Dependents: 0
+
+Federal Tax: $638.22	YTD: $1276.43
+State Tax: $122.32	YTD: $244.65
+Local Tax: $29.78	YTD: $59.57
+SS Tax: $164.87        YTD: $329.74
+
+Net Pay: $1704.03	YTD: $3408.07
+------------------
+------------------
+Name: TUYET KNAFF	ID: 617367
+Maritial Status: Married
+Gender: F
+Hours: 9.0
+Wage: $212.06
+Gross Pay: $1908.54	YTD: $3817.08
+Dependents: 4
+
+Federal Tax: $305.37	YTD: $610.73
+State Tax: $37.41	YTD: $74.81
+Local Tax: $21.38	YTD: $42.75
+SS Tax: $118.33        YTD: $236.66
+
+Net Pay: $1426.06	YTD: $2852.12
+------------------
+------------------
+Name: CHI STOROZUK	ID: 791581
+Maritial Status: Married
+Gender: M
+Hours: 33.0
+Wage: $197.19
+Gross Pay: $6507.27	YTD: $13014.54
+Dependents: 4
+
+Federal Tax: $1756.96	YTD: $3513.93
+State Tax: $195.22	YTD: $390.44
+Local Tax: $72.88	YTD: $145.76
+SS Tax: $403.45        YTD: $806.90
+
+Net Pay: $4078.76	YTD: $8157.51
+------------------
+------------------
+Name: GEORGIANNA ANCTIL	ID: 461802
+Maritial Status: Married
+Gender: F
+Hours: 33.0
+Wage: $228.22
+Gross Pay: $7531.26	YTD: $15062.52
+Dependents: 0
+
+Federal Tax: $2635.94	YTD: $5271.88
+State Tax: $376.56	YTD: $753.13
+Local Tax: $84.35	YTD: $168.70
+SS Tax: $466.94        YTD: $933.88
+
+Net Pay: $3967.47	YTD: $7934.94
+------------------
+------------------
+Name: MONNIE DAGESSE	ID: 106556
+Maritial Status: Single
+Gender: F
+Hours: 23.0
+Wage: $149.71
+Gross Pay: $3443.33	YTD: $6886.66
+Dependents: 0
+
+Federal Tax: $1101.87	YTD: $2203.73
+State Tax: $158.39	YTD: $316.79
+Local Tax: $38.57	YTD: $77.13
+SS Tax: $213.49        YTD: $426.97
+
+Net Pay: $1931.02	YTD: $3862.04
+------------------
+------------------
+Name: DEANNE TUPA	ID: 144735
+Maritial Status: Married
+Gender: F
+Hours: 25.0
+Wage: $229.00
+Gross Pay: $5725.00	YTD: $11450.00
+Dependents: 1
+
+Federal Tax: $1889.25	YTD: $3778.50
+State Tax: $257.63	YTD: $5

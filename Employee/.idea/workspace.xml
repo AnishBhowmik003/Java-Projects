@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ed87cab-084d-4fbf-9bae-351d38f8da98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WTtEzr2oph1UoDRnc8Vp9h22O4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LoanAmortization" />
+  </component>
+  <component name="RunManager" selected="Application.payrollTest">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="Employee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="payrollTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="payrollTest" />
+      <module name="Employee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.payrollTest" />
+        <item itemvalue="Application.GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed87cab-084d-4fbf-9bae-351d38f8da98" name="Default Changelist" comment="" />
+      <created>1579185305233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579185305233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="382" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579185413069">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="488" y="382" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.984@0.0.1280.984" timestamp="1579185413069" />
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1579185539506">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1579185539506" />
+    <state width="1200" height="247" key="GridCell.Tab.0.bottom" timestamp="1579185629445">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="247" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1579185629445" />
+    <state width="1200" height="247" key="GridCell.Tab.0.center" timestamp="1579185629445">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="247" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1579185629445" />
+    <state width="1200" height="247" key="GridCell.Tab.0.left" timestamp="1579185629445">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="247" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1579185629445" />
+    <state width="1200" height="247" key="GridCell.Tab.0.right" timestamp="1579185629445">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="247" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1579185629445" />
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1579185647798">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1579185647798" />
+    <state x="22" y="113" key="new project wizard" timestamp="1579185679941">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="22" y="113" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1579185679941" />
+  </component>
+</project>
